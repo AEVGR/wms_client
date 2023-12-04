@@ -1,2 +1,2 @@
-# wms_client
-wms_client for Swizterland EPSG 2056
+# WMS Client in Javasript für die Schweiz bzw. Graubünden   EPSG 2056
+
